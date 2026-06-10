@@ -1,4 +1,4 @@
-# Simulador de Escalonamento Round Robin 🔄
+# Simulador de Escalonamento Round Robin
 
 ## Descrição
 Este projeto é um simulador interativo via web do algoritmo de escalonamento de CPU **Round Robin**. Desenvolvido como uma ferramenta educacional para o estudo de Sistemas Operacionais, a aplicação permite a visualização clara de como a CPU aloca o tempo entre diferentes processos na fila de prontos. 
