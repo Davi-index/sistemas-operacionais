@@ -13,7 +13,7 @@ O simulador foca em demonstrar de forma prática o funcionamento da preempção 
 
 2. Navegue até o diretório de destino
    ```bash
-   cd "Nome_do_diretório"
+   cd "nome_do_diretório"
 3. Abra o arquivo index.html em seu navegador web preferido (não é necessário servidor local para executar as funcionalidades básicas).
 4. Na interface:
 
@@ -22,12 +22,19 @@ O simulador foca em demonstrar de forma prática o funcionamento da preempção 
    - Adicione os processos com seus respectivos tempos de chegada e execução.
 
    - Clique em "Run Simulation" para visualizar a linha do tempo e a tabela de resultados.
-  
-   📦 nome-do-repositorio
+
+📦 nome-do-repositorio
+   
  ┣ 📂 css
- ┃ ┗ 📜 style.css
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃ ┗ 📜 style.css
+ 
  ┣ 📂 js
- ┃ ┣ 📜 app.js
- ┃ ┗ 📜 roundRobin.js
- ┣ 📜 index.html
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃ ┣ 📜 app.js
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃ ┗ 📜 roundRobin.js
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣ 📜 index.html
+ 
  ┗ 📜 README.md
