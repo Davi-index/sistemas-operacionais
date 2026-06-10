@@ -10,3 +10,24 @@ O simulador foca em demonstrar de forma prática o funcionamento da preempção 
 1. Clone este repositório para a sua máquina local:
    ```bash
    git clone https://github.com/Davi-index/sistemas-operacionais
+
+2. Navegue até o diretório de destino
+   ```bash
+   cd "Nome_do_diretório"
+3. Abra o arquivo index.html em seu navegador web preferido (não é necessário servidor local para executar as funcionalidades básicas).
+4. Na interface:
+
+   - Insira o valor desejado para o Time Quantum.
+
+   - Adicione os processos com seus respectivos tempos de chegada e execução.
+
+   - Clique em "Run Simulation" para visualizar a linha do tempo e a tabela de resultados.
+  
+   📦 nome-do-repositorio
+ ┣ 📂 css
+ ┃ ┗ 📜 style.css
+ ┣ 📂 js
+ ┃ ┣ 📜 app.js
+ ┃ ┗ 📜 roundRobin.js
+ ┣ 📜 index.html
+ ┗ 📜 README.md
