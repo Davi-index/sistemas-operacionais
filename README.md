@@ -37,4 +37,4 @@ O simulador foca em demonstrar de forma prática o funcionamento da preempção 
  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣ 📜 index.html
  
- ┗ 📜 README.md
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗ 📜 README.md
