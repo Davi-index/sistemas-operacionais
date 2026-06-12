@@ -5,6 +5,8 @@ Este projeto é um simulador interativo via web do algoritmo de escalonamento de
 
 O simulador foca em demonstrar de forma prática o funcionamento da preempção baseada em *Time Quantum* e o cálculo de métricas de desempenho essenciais.
 
+### Tecnologias Utilizadas
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
 ## Como Utilizar
 1. Clone este repositório para a sua máquina local:
