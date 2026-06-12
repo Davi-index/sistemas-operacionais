@@ -8,6 +8,7 @@ O simulador foca em demonstrar de forma prática o funcionamento da preempção 
 ### Tecnologias Utilizadas
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 ## Como Utilizar
 1. Clone este repositório para a sua máquina local:
